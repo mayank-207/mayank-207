@@ -1,13 +1,5 @@
 ## Hi there 👋, I'm WebMine
 
-![mayank's Profile Views](https://komarev.com/ghpvc/?username=mayank-207&label=Profile%20views&color=0e75b6&style=flat)
-
-![mayank's GitHub stats](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
-
-## 💻 GitHub Profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mayank-207&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## About Me
 
 - 💼 I’m currently working as a **Frontend Developer** at [Zuru Tech](https://zuru.tech).
